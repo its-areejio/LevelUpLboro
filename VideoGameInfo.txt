@@ -1,0 +1,13 @@
+GameID,Name,Platform,Genre,PurchaseDate
+FF07,Final Fantasy VII,PlayStation,RPG,2018-03-12
+LOL02,League of Legends,PC,Battle Royale,2020-06-25
+ACN03,Animal Crossing: New Horizons,Nintendo Switch,Cozy, 2021-04-02
+MK110,Mortal Kombat 11,Xbox,Fighting,2019-09-18
+FOR05,Fortnite,PC,Battle Royale,2020-11-30
+SSU06,Super Smash Bros. Ultimate,Nintendo Switch,Fighting,2019-12-27
+ODN07,Return of the Obra Dinn,PC,Mystery,2022-01-14
+BAC08,Batman: Arkham City,PlayStation,Action-Adventure,2017-08-09
+HK009,Hollow Knight,PC,Metroidvania,2021-05-21
+DE010,Disco Elysium,PC,RPG,2022-10-03
+DOO11,Doom,PC,FPS,2016-07-16
+UND12,Undertale,PC,Indie,2019-02-05

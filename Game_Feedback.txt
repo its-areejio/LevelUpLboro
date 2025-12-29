@@ -1,0 +1,48 @@
+GameID,Rating,Comments
+MON01,8,Really enjoyable experience
+BLK02,6,Pretty solid overall
+MOO03,7,Fun with few issues
+TTB04,5,Average but playable
+YAH05,9,Highly engaging gameplay
+PFN06,4,Somewhat disappointing
+MIT07,7,Good balance and pacing
+HUC08,6,Decent time spent
+YCU09,8,Worth coming back
+TRP10,3,Needs more polish
+CLU11,7,Enjoyable and smooth
+SHI12,5,Nothing too special
+FF07,9,Excellent overall quality
+LOL02,2,Not very enjoyable
+ACN03,6,Okay for short sessions
+MK110,8,Strong and fun
+FOR05,7,Consistently enjoyable
+SSU06,4,Misses the mark
+ODN07,6,Fairly entertaining
+BAC08,5,Middle of the road
+HK009,9,Top tier experience
+DE010,3,Frustrating at times
+DOO11,8,Well designed gameplay
+UND12,7,Good overall feel
+MON01,6,Generally fine experience
+BLK02,5,Playable but bland
+MOO03,8,Surprisingly fun
+TTB04,4,Lacks excitement
+YAH05,10,Outstanding and memorable
+PFN06,3,Below expectations
+MIT07,7,Solid and enjoyable
+HUC08,6,Reasonably engaging
+YCU09,9,Very well executed
+TRP10,5,Just okay
+CLU11,8,Polished and fun
+SHI12,4,Could be better
+FF07,9,Impressive overall
+LOL02,2,Barely enjoyable
+ACN03,7,Better than expected
+MK110,8,Very entertaining
+FOR05,6,Decent enough
+SSU06,5,Unremarkable experience
+ODN07,7,Enjoyable moments
+BAC08,4,Some clear issues
+HK009,10,Exceptional quality
+DE010,3,Not very fun
+

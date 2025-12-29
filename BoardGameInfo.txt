@@ -1,0 +1,13 @@
+GameID,Name,NoOfPlayers,Genre,PurchaseDate
+MON01,Monopoly,2–8,Strategy,2019-06-14
+BLK02,Blockbuster,4–12,Trivia,2021-11-03
+MOO03,Moose Master,3–10,Dexterity,2022-07-19
+TTB04,Throw Throw Burrito,2–6,Dexterity,2020-12-25
+YAH05,Yahtzee,1–6,Dice,2018-04-09
+PFN06,Poetry for Neanderthals,2–12,Word,2021-08-02
+MIT07,Mine Turtle,2–4,Strategy,2023-02-17
+HUC08,Hues and Cues,3–10,Guessing,2020-09-11
+YCU09,You Can't Say Umm,4–10,Word,2022-05-28
+TRP10,Trivial Pursuit,2–6,Trivia,2017-10-06
+CLU11,Cluedo,2–6,Strategy,2016-12-18
+SHI12,Secret Hitler,5–10,Strategy,2021-03-21
